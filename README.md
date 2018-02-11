@@ -1,1 +1,2 @@
-# DatavisualisatieInPython-0
+# DatavisualisatieInPython - 0
+Lessen in Jupyter Notebook
